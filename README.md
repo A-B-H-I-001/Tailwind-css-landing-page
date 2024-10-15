@@ -1,6 +1,6 @@
 # Tailwind-css-landing-page
 ---
-# 🖥️ Designs.new - Landig -page✨
+# 🖥️ Designs.new - Landing -page✨
 
 This is the **Designs.new** landing page built using **Tailwind CSS**. It showcases a clean, minimal design to highlight my skills as a **Product Designer** and **Visual Developer**.
 
